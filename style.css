@@ -1,0 +1,44 @@
+body {
+	background-image: url(img/background.jpg);
+	background-size: cover;
+}
+
+
+h1 {
+	font-family: arial;
+	margin-top: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.signup-form {
+	margin: 150px auto;
+	text-align: center;
+	background-color: #f3f3f3;
+	width: 30%;
+	padding: 10px;
+	padding-bottom: 20px;
+	border: none;
+	border-radius: 8px;
+}
+
+.box {
+	width: 50%;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 4px;
+	border: none;
+	font-size: 13px;
+
+}
+
+.button {
+	margin-top: 5px;
+	border: none;
+	font-size: 17px;
+	padding: 5px 20px;
+	font-family: arial;
+	background-color: black;
+	color: white;
+	border-radius: 4px;
+}
