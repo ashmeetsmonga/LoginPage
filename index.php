@@ -6,7 +6,7 @@
 
  	<header>
 		<div class="signup-form">
- 			<h1>Login</h1>
+ 			<h1>Login System</h1>
 
 	 		<form action="includes/login.inc.php" method="POST">
 	 			<input class="box" type="text" name="username" placeholder="Username"><br>
